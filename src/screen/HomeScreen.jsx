@@ -37,7 +37,7 @@ const HomeScreen = () => {
         style={styles.bannerImage}
       />
       <Text style={styles.title}>Welcome To </Text>
-      <Text style={styles.title2}>MAHA CONNECT</Text>
+      <Text style={styles.title2}>MAHA CONNECT 3</Text>
       <Text style={styles.subTitle}>DIGITAL PHONE DIRECTORY</Text>
       <View style={styles.formContainer}>
         <View style={styles.inputContainer}>
